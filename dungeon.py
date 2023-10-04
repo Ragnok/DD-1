@@ -79,5 +79,5 @@ class Dungeon:
 			print (" ╚███╔███╔╝██║██║ ╚████║██╗██╗██╗ ")
 			print ("  ╚══╝╚══╝ ╚═╝╚═╝  ╚═══╝╚═╝╚═╝╚═╝ ")
 			print (" Congratulations you beat Dungeon Dudes!! ")
-			print (" by MSG Mike Simpson")
+			print (" by Mike Simpson")
 
