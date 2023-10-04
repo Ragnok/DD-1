@@ -52,7 +52,7 @@ class Monster(Character):
 		monster = random.choice(all_monsters)
 #		print monster
 		self.name = monster
-		self.health_max = random.randint(1, 3)
+		self.health_max = random.randint(1, 5)
 		self.health = self.health_max
 		if self.health ==1:
 			self._dice=[Dice(6)]
